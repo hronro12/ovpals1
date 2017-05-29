@@ -5,16 +5,20 @@
 			"taskTitle": "Do stuff"
 		},
 		{
-			"done": false
+			"done": false,
+			"taskTitle": "garden"
 		},
 		{
-			"done": true
+			"done": true,
+			"taskTitle": "cars"
 		},
 		{
-			"done": true
+			"done": true,
+			"taskTitle": "front door"
 		},
 		{
-			"done": false
+			"done": false,
+			"taskTitle": "back door"
 		}
 	]
 }
