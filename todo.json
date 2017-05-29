@@ -9,11 +9,11 @@
 			"taskTitle": "garden"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "cars"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "front door"
 		},
 		{
